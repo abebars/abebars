@@ -15,10 +15,10 @@ The New York Times was looking to radically transform its computer telephony int
 ---
 ## Certifactions
 
-[![AWS Certified Solutions Architect - Associate](assets/images/aws-certified-solution-architect.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2015-10-07&ci=AWS00150784)
-[![AWS Certified SysOps Administrator - Associate](assets/images/aws-certified-sysops.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-12-06&ci=AWS00150784)
-[![AWS Certified Developer - Associate](assets/images/aws-certified-developer.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-27&ci=AWS00150784)
-[![AWS Certified Cloud Practitioner](assets/images/aws-cloud-paractitioner.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-12-06&ci=AWS00150784)
+[![AWS Certified Solutions Architect - Associate](https://abebars.io/assets/images/aws-certified-solution-architect.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2015-10-07&ci=AWS00150784)
+[![AWS Certified SysOps Administrator - Associate](https://abebars.io/assets/images/aws-certified-sysops.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-12-06&ci=AWS00150784)
+[![AWS Certified Developer - Associate](https://abebars.io/assets/images/aws-certified-developer.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-27&ci=AWS00150784)
+[![AWS Certified Cloud Practitioner](https://abebars.io/assets/images/aws-cloud-paractitioner.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-12-06&ci=AWS00150784)
 
 And way more to achieve ....
 
