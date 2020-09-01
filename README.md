@@ -13,7 +13,7 @@ The New York Times was looking to radically transform its computer telephony int
 
 
 ---
-## Certifiactions
+## Certifications
 
 [![AWS Certified Solutions Architect - Associate](https://abebars.io/assets/images/aws-certified-solution-architect.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2015-10-07&ci=AWS00150784)
 [![AWS Certified SysOps Administrator - Associate](https://abebars.io/assets/images/aws-certified-sysops.png)](https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2019-12-06&ci=AWS00150784)
