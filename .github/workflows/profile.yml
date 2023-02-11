@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: theory
+          user: abebars
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: America/New_York
@@ -28,7 +28,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner, collaborator
-          repositories_skipped: theory/theory
+          repositories_skipped: abebars/abebars
 
           # The isocalendar plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
           plugin_isocalendar: yes
