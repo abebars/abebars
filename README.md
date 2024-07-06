@@ -10,8 +10,6 @@ __The New York Times__, developing products for the Customer Care organization.
 ## Talks
 ### [AWS re:Invent 2019: The New York Times: Improving customer care with Amazon Connect](https://www.youtube.com/watch?v=GVQtp8WaGFY)
 The New York Times was looking to radically transform its computer telephony integration (CTI) system supporting its customer-care operations. After evaluating other solutions, the company chose Amazon Connect because of its ease of migration, flexibility, and customer-centric capabilities. Learn how The New York Times successfully rewrote its IVR and call workflows using Amazon Lex for natural language detection, and how it is using Amazon Transcribe to stream call data to a datastore and is writing Amazon Lex bots. Hear how the company was able to leverage cutting-edge technology, at scale, while reducing operational costs.
-
-
 ---
 ## Certifications
 
@@ -57,3 +55,9 @@ And way more to achieve ....
 ---
 ## On a personal note
 I love adventure and explore new things like Home Automation, Learning new skills, and Scuba Diving.
+
+---
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abebars)](https://git.io/streak-stats)
+
