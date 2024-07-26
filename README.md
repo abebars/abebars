@@ -1,5 +1,7 @@
 <p align="center"><a href="https://blog.abebars.io">Blog</a> •  <a href="https://abebars.io">Website</a> • <a href="https://www.linkedin.com/in/ahmed.bebars">LinkedIn</a> • <a href="https://twitter.com/abebars88">Twitter</a> </p>
 
+![](https://komarev.com/ghpvc/?username=abebars)
+
 ## Hi, I'm Ahmed
 
 I'm a software engineer with more than 10 years of experience in backend development and
