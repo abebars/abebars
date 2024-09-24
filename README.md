@@ -9,12 +9,33 @@ system architecture. I'm working as Senior Software Engineer for
 __The New York Times__, developing products for the Customer Care organization.
 
 
-## Talks
-### [AWS re:Invent 2019: The New York Times: Improving customer care with Amazon Connect](https://www.youtube.com/watch?v=GVQtp8WaGFY)
-The New York Times was looking to radically transform its computer telephony integration (CTI) system supporting its customer-care operations. After evaluating other solutions, the company chose Amazon Connect because of its ease of migration, flexibility, and customer-centric capabilities. Learn how The New York Times successfully rewrote its IVR and call workflows using Amazon Lex for natural language detection, and how it is using Amazon Transcribe to stream call data to a datastore and is writing Amazon Lex bots. Hear how the company was able to leverage cutting-edge technology, at scale, while reducing operational costs.
+## Talks - Up Next
+| Date & Time  | Conference/Meetup       | Title                                                       |
+|:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 09 Oct '24 | [KubeCrash](https://www.kubecrash.io/) | Unleashing the Potential of Platform Engineering and Internal Developer Journey |
+| 09 Oct '24 | [DevOpsCon New York 2024](https://devopscon.io/new-york/program-ny/) | Designing and Securing a Multi-Tenant Runtime Environment at the New York Times |
+| 13 Nov '24 | O'Reilly Platform Engineering Superstream | What We Learned Designing and Securing a Multi-Tenant Developer Platform |
+| 11-15 Nov '24 | [KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america) | Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF  |
+| 2-6 Dec '24 | [AWS re:invent 2024](https://reinvent.awsevents.com/) | Optimizing network efficiency & strengthening multi-cloud connectivity |
+
+[Past Talks](https://github.com/abebars/abebars/tree/main/talks)
 ---
 ## Certifications
 
+<a href="https://www.credly.com/badges/04829a44-5107-4621-9514-eba852290618">
+<img src="https://images.credly.com/size/600x600/images/e5927f7d-443f-40aa-b96a-daffcb72044d/image.png" alt="SME Professional" width="100" height="100">
+</a>
+
+<a href="https://www.credly.com/badges/e835610f-2541-4029-be36-cf3a715bc926">
+<img src="https://images.credly.com/size/600x600/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional
+" width="100" height="100">
+</a>
+
+
+<a href="https://www.credly.com/badges/d103bff5-b832-4dd9-8732-e6d019be3e5d">
+<img src="https://images.credly.com/size/600x600/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional
+" width="100" height="100">
+</a>
 
 <a href="https://www.credly.com/badges/9fcbc3db-6e78-4c5a-ba7f-272c4b28c4eb/public_url">
 <img src="https://images.credly.com/size/680x680/images/2c39ceac-5fc7-4f3d-aa89-b59747ed9abb/Training_Badges_Master_LFACEB-Grad__1_.png" alt="Advanced Cloud Engineer Bootcamp Graduate" width="100" height="100">
@@ -27,7 +48,7 @@ The New York Times was looking to radically transform its computer telephony int
 
 
 <a href="https://www.credly.com/badges/1b29df5d-d624-4cbe-ab87-11e1b9fd8709/public_url">
-<img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="CKAD: Certified Kubernetes Application Developer" width="100" height="100">
+<img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="100" height="100">
 </a>
 
 
