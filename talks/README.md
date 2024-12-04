@@ -3,16 +3,16 @@
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 09 Oct '24 | [KubeCrash](https://www.kubecrash.io/) | Unleashing the Potential of Platform Engineering and Internal Developer Journey |
-| 09 Oct '24 | [DevOpsCon New York 2024](https://devopscon.io/new-york/program-ny/) | Designing and Securing a Multi-Tenant Runtime Environment at the New York Times |
-| 13 Nov '24 | O'Reilly Platform Engineering Superstream | What We Learned Designing and Securing a Multi-Tenant Developer Platform |
-| 11-15 Nov '24 | [KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america) | Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF  |
 | 2-6 Dec '24 | [AWS re:invent 2024](https://reinvent.awsevents.com/) | Optimizing network efficiency & strengthening multicloud connectivity |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 11-15 Nov '24 | [KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america) | Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF  |
+| 13 Nov '24 | O'Reilly Platform Engineering Superstream | What We Learned Designing and Securing a Multi-Tenant Developer Platform |
+| 09 Oct '24 | [DevOpsCon New York 2024](https://devopscon.io/new-york/program-ny/) | Designing and Securing a Multi-Tenant Runtime Environment at the New York Times |
+| 09 Oct '24 | [KubeCrash](https://www.kubecrash.io/) | Unleashing the Potential of Platform Engineering and Internal Developer Journey |
 | 18 Jun '24 | DevOpsCon Munich 2024 | [Keynote](https://devopscon.io/muenchen/) |
 | 31 May '24 | Kubernetes Community Day New York 2024 | [ Unleashing the Potential of Platform Engineering and Internal Developer Journey](https://community.cncf.io/events/details/cncf-cloud-native-riyadh-presents-unleashing-the-potential-of-platform-engineering-and-internal-developer-journey/) |
 | 22 May '24 | Kubernetes Community Day New York 2024 | [Opening Remarks](https://www.kcdnewyork.com/) |
