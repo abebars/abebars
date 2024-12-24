@@ -12,11 +12,7 @@ __The New York Times__, developing products for the Customer Care organization.
 ## Talks - Up Next
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 09 Oct '24 | [KubeCrash](https://www.kubecrash.io/) | Unleashing the Potential of Platform Engineering and Internal Developer Journey |
-| 09 Oct '24 | [DevOpsCon New York 2024](https://devopscon.io/new-york/program-ny/) | Designing and Securing a Multi-Tenant Runtime Environment at the New York Times |
-| 13 Nov '24 | O'Reilly Platform Engineering Superstream | What We Learned Designing and Securing a Multi-Tenant Developer Platform |
-| 11-15 Nov '24 | [KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america) | Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF  |
-| 2-6 Dec '24 | [AWS re:invent 2024](https://reinvent.awsevents.com/) | Optimizing network efficiency & strengthening multi-cloud connectivity |
+| 2025 | Undefined| TBD |
 
 [Past Talks](https://github.com/abebars/abebars/tree/main/talks)
 ---
