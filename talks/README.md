@@ -3,7 +3,10 @@
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 2025 | Undefined| TBD |
+| 5 Feb '25 | [Platformers Community](https://www.linkedin.com/events/7283394828795547648)| Scaling Smarter, Not Harder with KEDA and Karpenter - Ahmed Bebars |
+| 1-5 April '25 | [KubeCon North London 20245](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Journey at the New York Times: Is Sidecar-Less Service Mesh Disappearing Into Infrastructure? |
+| 4 June '25 | [KCD New York 2025](https://www.kcdnewyork.com/) | Event Organizer  |
+| Sept '25 | [AWS Community Day New York 2025](https://www.awscommunitynewyork.com/) | Event Organizer  |
 
 ## Past Talks
 
@@ -29,8 +32,11 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+| 16 Jan '25 | Meetup Orgnizing | [CNCF Midtown NYC Meetup 3](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cloud-native-midtown-nyc-3) |
+| 9 Jan '25 | Stream | [ChatLoopBackOff - Episode 41 (Meshery)](https://www.youtube.com/watch?v=d2E4qDd3_Aw) |
+| 2 Jan '25 | Stream | [Live Q& A with Ahmed Bebars - Platform Engineering Prediction for 2025](https://www.youtube.com/watch?v=mCj97E9K3Q8) |
 | 31 Aug '24 | Patch 4 | [Giving Developers the Freedom to Deploy, While Governing Cloud Services at Scale](patchcmt.com) |
-| 15 Aug '24 | Meetup | [CNCF Midtown NYC Inaugural Meeting](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cncf-midtown-nyc-inaugural-meeting/) |
+| 15 Aug '24 | Meetup Orgnizing | [CNCF Midtown NYC Inaugural Meeting](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cncf-midtown-nyc-inaugural-meeting/) |
 | 28 Aug '24 | AWS Community Day New York 2024 | [Lead Organizer](https://www.awscommunitynewyork.com/) |
 | 6 Aug '24 | Online Webinar | [ Best Practices for Platform Owners and App Developers](https://app.livestorm.co/tetrate/best-practices-for-platform-owners-and-app-developers/live?s=347f8fdc-f27e-4ac7-b9d5-d069bec43e7d#/chat) |
 | 31 May '24 | Cloud Native Riyadh 2024 | [Lead Organizer](https://community.cncf.io/events/details/cncf-cloud-native-riyadh-presents-unleashing-the-potential-of-platform-engineering-and-internal-developer-journey/) |
