@@ -1,18 +1,30 @@
+<a href="../README.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/brand/banner-dark.png">
+    <img src="../assets/brand/banner-light.png" alt="Ahmed Bebars" width="100%">
+  </picture>
+</a>
+
+# Talks
+
+50+ technical talks, workshops and community events. Recordings: [YouTube playlist](https://www.youtube.com/playlist?list=PLJsR9HEJZy5KEpCd788WhTIFPf59HSDXU) · Invite me to speak: [ahmedbebars.io/talks](https://www.ahmedbebars.io/talks)
+
 ## Up Next
 
-
-| Date & Time  | Conference/Meetup       | Title                                                       |
-|:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 5 Feb '25 | [Platformers Community](https://www.linkedin.com/events/7283394828795547648)| Scaling Smarter, Not Harder with KEDA and Karpenter - Ahmed Bebars |
-| 1-5 April '25 | [KubeCon North London 20245](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Journey at the New York Times: Is Sidecar-Less Service Mesh Disappearing Into Infrastructure? |
-| 4 June '25 | [KCD New York 2025](https://www.kcdnewyork.com/) | Event Organizer  |
-| Sept '25 | [AWS Community Day New York 2025](https://www.awscommunitynewyork.com/) | Event Organizer  |
+| Date | Event | Role / Talk |
+|:--:|:--:|:--:|
+| Apr 2027 | [KCD Cairo 2027](https://kcdcairo.com) | Organizer |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 2-6 Dec '24 | [AWS re:invent 2024](https://reinvent.awsevents.com/) | Optimizing network efficiency & strengthening multicloud connectivity |
+| 17 Sep '26 | Packt live workshop | Engineering GPU infrastructure for AI workloads |
+| Sept '25 | [AWS Community Day New York 2025](https://www.awscommunitynewyork.com/) | Event Organizer |
+| 4 June '25 | [KCD New York 2025](https://www.kcdnewyork.com/) | Event Organizer |
+| 1-4 April '25 | [KubeCon Europe 2025, London](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Journey at the New York Times: Is Sidecar-Less Service Mesh Disappearing Into Infrastructure? |
+| 5 Feb '25 | [Platformers Community](https://www.linkedin.com/events/7283394828795547648) | Scaling Smarter, Not Harder with KEDA and Karpenter |
+| 2-6 Dec '24 | [AWS re:Invent 2024](https://reinvent.awsevents.com/) | [Optimizing network efficiency & strengthening multicloud connectivity](https://www.youtube.com/watch?v=t4Hm3ru9TAI) |
 | 11-15 Nov '24 | [KubeCon North America 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america) | Cilium: Connecting, Observing, and Securing Kubernetes and Beyond with eBPF  |
 | 13 Nov '24 | O'Reilly Platform Engineering Superstream | What We Learned Designing and Securing a Multi-Tenant Developer Platform |
 | 09 Oct '24 | [DevOpsCon New York 2024](https://devopscon.io/new-york/program-ny/) | Designing and Securing a Multi-Tenant Runtime Environment at the New York Times |
@@ -25,18 +37,18 @@ Date|Conference/Meetup|Talk
 | 3 Dec '23 | AWS re:invent 2023  | [Platform engineering with Amazon EKS](https://www.youtube.com/watch?v=eLxBnGoBltc) |
 | 14 Nov '23 | AWS re:invent 2023  | [What We Learned Designing & Securing a Multi-Tenant Developer Platform at The New York Times](https://www.youtube.com/watch?v=EniokAz-Plg) |
 | 25 May '23 | Open Source Summit North America 2023 | [Designing and Securing a Multi-Tenant Runtime Environment at the New York Times](https://www.youtube.com/watch?v=ZjlaRCHbHCY) |
-| 09 Dev '19 | AWS re:invent 2019 | [The New York Times: Improving customer care with Amazon Connect (EUC213)](https://www.youtube.com/watch?v=GVQtp8WaGFY) |
+| 09 Dec '19 | AWS re:invent 2019 | [The New York Times: Improving customer care with Amazon Connect (EUC213)](https://www.youtube.com/watch?v=GVQtp8WaGFY) |
 
 
 ## Other Events (Podcasts, Interviews, Organizations)
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
-| 16 Jan '25 | Meetup Orgnizing | [CNCF Midtown NYC Meetup 3](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cloud-native-midtown-nyc-3) |
+| 16 Jan '25 | Meetup Organizing | [CNCF Midtown NYC Meetup 3](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cloud-native-midtown-nyc-3) |
 | 9 Jan '25 | Stream | [ChatLoopBackOff - Episode 41 (Meshery)](https://www.youtube.com/watch?v=d2E4qDd3_Aw) |
 | 2 Jan '25 | Stream | [Live Q& A with Ahmed Bebars - Platform Engineering Prediction for 2025](https://www.youtube.com/watch?v=mCj97E9K3Q8) |
-| 31 Aug '24 | Patch 4 | [Giving Developers the Freedom to Deploy, While Governing Cloud Services at Scale](patchcmt.com) |
-| 15 Aug '24 | Meetup Orgnizing | [CNCF Midtown NYC Inaugural Meeting](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cncf-midtown-nyc-inaugural-meeting/) |
+| 31 Aug '24 | Patch 4 | [Giving Developers the Freedom to Deploy, While Governing Cloud Services at Scale](https://patchcmt.com) |
+| 15 Aug '24 | Meetup Organizing | [CNCF Midtown NYC Inaugural Meeting](https://community.cncf.io/events/details/cncf-cloud-native-midtown-presents-cncf-midtown-nyc-inaugural-meeting/) |
 | 28 Aug '24 | AWS Community Day New York 2024 | [Lead Organizer](https://www.awscommunitynewyork.com/) |
 | 6 Aug '24 | Online Webinar | [ Best Practices for Platform Owners and App Developers](https://app.livestorm.co/tetrate/best-practices-for-platform-owners-and-app-developers/live?s=347f8fdc-f27e-4ac7-b9d5-d069bec43e7d#/chat) |
 | 31 May '24 | Cloud Native Riyadh 2024 | [Lead Organizer](https://community.cncf.io/events/details/cncf-cloud-native-riyadh-presents-unleashing-the-potential-of-platform-engineering-and-internal-developer-journey/) |
@@ -46,3 +58,7 @@ Date|Medium|Title
 | Aug '23 | AWS: This is My architecture Series | [Giving Developers the Freedom to Deploy, While Governing Cloud Services at Scale](https://www.youtube.com/watch?v=jBffL9zUCSE&ab_channel=AmazonWebServices) |
 | Jul '22 | Blog Post | [How to Use IAM Roles for Pods on AWS EKS](https://blog.abebars.io/how-to-use-iam-roles-for-pods-on-aws-eks-7e34a61b66) |
 | Feb '22 | Blog Post | [Amazon Connect: Contact Center as Code](https://blog.abebars.io/amazon-connect-contact-center-as-code-part-1-5b2297a2e0d3) |
+
+---
+
+<sub>BUILT. NOT THEORIZED. · #LevelUpWithAhmed</sub>
